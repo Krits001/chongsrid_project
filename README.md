@@ -1,4 +1,4 @@
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Krits001">
    <img src="https://avatars.githubusercontent.com/u/YOUR_AVATAR_ID?v=4?s=100" width="100px;" alt=""/>
    <br /><sub><b>Krist</b></sub>
 </a>
